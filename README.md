@@ -1,7 +1,6 @@
 Hey! I am Anneshan Sharma, Software Development Engineer at Amadeus Software Labs Bangalore India. 
 I work on Platform as a Service (PaaS) side of Amadeus. 
-My Tech Stack is Kubernetes/Openshift for container orchestration. I also use Ansible/Python for automation work, And Bash for scripting. 
-Apart from that, I also use Prometheus/Grafana/Splunk/Argos/ServiceNow for cluster logs/monitoring/alerting/tracking etc. I use Bitbucket/github for repo version control & collaboratoion.  
+My Tech Stack is Kubernetes/Openshift for container orchestration. I also use Ansible/Python for automation work And Bash for scripting. 
 
 Previously, I have Experienced as RTL Design Engineer Intern at ORCA Radio Systems Bangalore.
 My work there was primarily on developing RTL code using Verilog for filtered systems. 
